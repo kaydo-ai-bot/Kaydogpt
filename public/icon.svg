@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#181818"/>
+  <defs>
+    <linearGradient id="kaydo-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 64C256 169.96 342.04 256 448 256C342.04 256 256 342.04 256 448C256 342.04 169.96 256 64 256C169.96 256 256 169.96 256 64Z" fill="url(#kaydo-grad)"/>
+</svg>

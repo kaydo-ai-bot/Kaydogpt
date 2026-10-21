@@ -1,0 +1,6 @@
+{
+  "name": "Kaydo GPT",
+  "description": "Kaydo GPT - Assistant IA intelligent et rapide avec recherche web en temps réel, intégrations d'APIs et réponses fiables.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
